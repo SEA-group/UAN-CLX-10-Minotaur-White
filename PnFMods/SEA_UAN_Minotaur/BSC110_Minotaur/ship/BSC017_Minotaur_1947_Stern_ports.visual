@@ -83,15 +83,6 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_BM963_Anchor_Capstan_Stern	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.999659 0.026104 0.000000	</row1>
-					<row2>	0.000000 -0.026104 0.999659 0.000000	</row2>
-					<row3>	0.000000 0.423498 -5.635951 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
 				<identifier>	MP_CM033_Propeller4_R	</identifier>
 				<transform>
 					<row0>	0.999373 0.000532 0.035415 0.000000	</row0>
@@ -116,6 +107,51 @@
 					<row1>	0.000531 0.999550 -0.030000 0.000000	</row1>
 					<row2>	-0.035398 0.030000 0.998923 0.000000	</row2>
 					<row3>	0.248320 -0.347736 -5.179867 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM104_Life_Buoy	</identifier>
+				<transform>
+					<row0>	0.1000 0.0000 0.9950 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.9950 0.0000 0.1000 0.0000	</row2>
+					<row3>	0.5864 0.4621 -4.2326 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM104_Life_Buoy_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.1000 0.0000 -0.9950 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.9950 0.0000 0.1000 0.0000	</row2>
+					<row3>	-0.5864 0.4621 -4.2326 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BM872_Running_Lights_B	</identifier>
+				<transform>
+					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+					<row3>	0.2117 0.4496 -6.1610 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BM872_Running_Lights_B_INDEX_1	</identifier>
+				<transform>
+					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+					<row3>	0.0000 0.6378 -6.2026 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BM963_Anchor_Capstan_Stern	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.999659 0.026104 0.000000	</row1>
+					<row2>	0.000000 -0.026104 0.999659 0.000000	</row2>
+					<row3>	0.000000 0.423498 -5.635951 1.000000	</row3>
 				</transform>
 			</node>
 			<node>
