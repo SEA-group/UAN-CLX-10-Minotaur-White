@@ -3,6 +3,12 @@
 	<property>	emissivePower
 		<Float>	2.00000	</Float>
 	</property>
+	<property>	alphaTestEnable
+		<Bool>	true	</Bool>
+	</property>
+	<property>	alphaReference
+		<Int>	128	</Int>
+	</property>
 	<collisionFlags>	0	</collisionFlags>
 	<materialKind>	0	</materialKind>
 	<property>	metallicGlossMap

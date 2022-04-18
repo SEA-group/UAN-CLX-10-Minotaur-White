@@ -7,7 +7,7 @@
 		<Bool>	true	</Bool>
 	</property>
 	<property>	alphaReference
-		<Int>	150	</Int>
+		<Int>	128	</Int>
 	</property>
 	<collisionFlags>	0	</collisionFlags>
 	<materialKind>	0	</materialKind>
