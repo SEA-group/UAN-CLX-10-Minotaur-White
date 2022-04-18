@@ -12,15 +12,15 @@
 	<collisionFlags>	0	</collisionFlags>
 	<materialKind>	0	</materialKind>
 	<property>	metallicGlossMap
-		<Texture>	PnFMods/SEA_UAN_Minotaur/BSC110_Minotaur/ship/BSC017_Minotaur_1947_mg.tga	</Texture>
+		<Texture>	PnFMods/SEA_UAN_Minotaur/BSC110_Minotaur/ship/BSC017_Minotaur_1947_mg.dds	</Texture>
 	</property>
 	<property>	normalMap
-		<Texture>	PnFMods/SEA_UAN_Minotaur/BSC110_Minotaur/ship/BSC017_Minotaur_1947_n.tga	</Texture>
+		<Texture>	PnFMods/SEA_UAN_Minotaur/BSC110_Minotaur/ship/BSC017_Minotaur_1947_n.dds	</Texture>
 	</property>
 	<property>	diffuseMap
-		<Texture>	PnFMods/SEA_UAN_Minotaur/BSC110_Minotaur/ship/BSC017_Minotaur_1947_a.tga	</Texture>
+		<Texture>	PnFMods/SEA_UAN_Minotaur/BSC110_Minotaur/ship/BSC017_Minotaur_1947_a.dds	</Texture>
 	</property>
 	<property>	ambientOcclusionMap
-		<Texture>	PnFMods/SEA_UAN_Minotaur/BSC110_Minotaur/ship/BSC017_Minotaur_1947_ao.tga	</Texture>
+		<Texture>	PnFMods/SEA_UAN_Minotaur/BSC110_Minotaur/ship/BSC017_Minotaur_1947_ao.dds	</Texture>
 	</property>
 </BSC017_Minotaur_1947.mfm>
